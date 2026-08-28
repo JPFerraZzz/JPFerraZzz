@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 IT student | Networking • Cloud • Cybersecurity<br>💻 Learning by building real projects
+🚀 IT student | Networking • Web Dev • Cybersecurity<br>💻 Learning by building real projects
 
 
 ## 🌐 Socials:
