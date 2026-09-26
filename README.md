@@ -1,25 +1,36 @@
+<div align="center">
+
 # João Ferraz
 
-IT student (Networking & Systems, ISPGAYA) building toward cybersecurity —
-pentest, GRC, and LLM security. I write about what I test at
-[jaoresearch.duckdns.org](https://jaoresearch.duckdns.org), signed with GPG.
+IT student · Networking & Cybersecurity · Web Dev
 
-## Currently
+[![Research Blog](https://img.shields.io/badge/blog-jaoresearch.duckdns.org-1a1a2e?style=for-the-badge)](https://jaoresearch.duckdns.org)
 
-- 🔎 Looking for a cybersecurity internship (Porto area)
-- 📚 Studying for CompTIA Security+
-- 🏠 Self-hosting on an old Lenovo: Docker, Nginx, Pi-hole, the usual homelab stuff
-
-## Stack
-
-**Languages** `JavaScript` `PHP` `Python`
-**Web** `Next.js` `Tailwind` `React` `Node.js`
-**Infra** `Linux` `Docker` `Nginx` `Cloudflare`
-
-## Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPFerraZzz&layout=compact&theme=dark&hide_border=true)
+</div>
 
 ---
 
-[Research blog](https://jaoresearch.duckdns.org) · [X](https://x.com/jao_pereira06) · [Email](mailto:jpferrazpereira@gmail.com)
+Building toward a career in cybersecurity (pentest, GRC, LLM security). I
+write signed, verifiable write-ups on what I test at my
+[research blog](https://jaoresearch.duckdns.org).
+
+## Stack
+
+`JavaScript` `PHP` `Python` `Next.js` `Tailwind` `Linux` `Docker` `Nginx`
+
+## Stats
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=JPFerraZzz&show_icons=true&theme=dark&hide_border=true"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPFerraZzz&layout=compact&theme=dark&hide_border=true"/>
+
+</div>
+
+---
+
+<div align="center">
+
+[Research Blog](https://jaoresearch.duckdns.org) · [X](https://x.com/jao_pereira06) · [Email](mailto:jpferrazpereira@gmail.com)
+
+</div>
