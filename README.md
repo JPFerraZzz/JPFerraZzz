@@ -135,10 +135,6 @@ OSINT investigation with theHarvester — **nasa.gov, rapid7.com** and a persona
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=JPFerraZzz&bg_color=FFF9DB&color=7BA7D0&line=7BA7D0&point=F2C94C&area=true&area_color=BDE0FE&title_color=3A4A5C&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
 
-### 🧬 Deep metrics *(self-generated daily)*
-
-<img src="./metrics.svg" width="100%" alt="metrics"/>
-
 ---
 
 ## 🐍 Contribution snake
