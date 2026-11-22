@@ -10,6 +10,7 @@ jobs:
     steps:
       - uses: jamesgeorge007/github-activity-readme@master
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           MAX_LINES: 8
           COMMIT_MSG: "chore: update recent activity"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
