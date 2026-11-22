@@ -2,8 +2,6 @@
 
 <img src="./assets/header.svg" width="100%" alt="João Ferraz Pereira"/>
 
-<a href="https://github.com/JPFerraZzz"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=600&size=22&duration=3200&pause=900&color=00FF9C&background=07090A&center=true&vCenter=true&width=900&height=60&lines=Building+malware+removal+tools;Learning+cryptography+by+breaking+it;Designing+networks+in+Packet+Tracer;Writing+OSINT+reports+I+can+defend;Self-hosting+a+homelab+on+a+Lenovo" alt="typing"/></a>
-
 <br/><br/>
 
 <a href="https://jpferraz.netlify.app/en/"><img src="https://img.shields.io/badge/See%20my%20website%20%E2%86%92-00FF9C?style=for-the-badge&logo=netlify&logoColor=000"/></a>
