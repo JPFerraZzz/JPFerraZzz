@@ -110,7 +110,7 @@ OSINT investigation with theHarvester: **nasa.gov, rapid7.com** and a personal s
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=JPFerraZzz&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&bg_color=0E1314&title_color=00FF9C&text_color=EEF3EF&icon_color=6DF2B0&border_color=1F2A26&border_radius=14"/>
-<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPFerraZzz&layout=donut&card_width=400&langs_count=6&bg_color=0E1314&title_color=00FF9C&text_color=EEF3EF&icon_color=6DF2B0&border_color=1F2A26&border_radius=14"/>
+<img height="180" src="./assets/languages-v2.svg" alt="Most used languages"/>
 
 <img src="https://streak-stats.demolab.com/?user=JPFerraZzz&background=0E1314&border=1F2A26&stroke=1F2A26&ring=00FF9C&fire=6DF2B0&currStreakNum=EEF3EF&sideNums=EEF3EF&currStreakLabel=00FF9C&sideLabels=AAB6AF&dates=AAB6AF&border_radius=14"/>
 
