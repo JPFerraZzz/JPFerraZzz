@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg" width="100%" alt="João Ferraz"/>
+<img src="./assets/header-static.svg" width="100%" alt="João Ferraz"/>
 
 <a href="https://github.com/JPFerraZzz"><img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=600&size=22&duration=3200&pause=900&color=00FF9C&background=07090A&center=true&vCenter=true&width=900&height=60&lines=%F0%9F%9B%A1%EF%B8%8F+Building+malware+removal+tools;%F0%9F%94%90+Learning+cryptography+by+breaking+it;%F0%9F%8C%90+Designing+networks+in+Packet+Tracer;%F0%9F%94%8E+Doing+OSINT+write-ups+I+can+defend;%F0%9F%8F%A0+Self-hosting+a+homelab+on+a+Lenovo" alt="typing"/></a>
 
