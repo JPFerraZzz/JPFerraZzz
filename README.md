@@ -176,8 +176,6 @@ A **Lenovo laptop running Ubuntu Server**, serving real work instead of only des
 
 <img src="https://streak-stats.demolab.com/?user=JPFerraZzz&background=0E1314&border=1F2A26&stroke=1F2A26&ring=00FF9C&fire=6DF2B0&currStreakNum=EEF3EF&sideNums=EEF3EF&currStreakLabel=00FF9C&sideLabels=AAB6AF&dates=AAB6AF&border_radius=14"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=JPFerraZzz&bg_color=0E1314&color=00FF9C&line=00FF9C&point=EEF3EF&area=true&area_color=00FF9C&title_color=EEF3EF&hide_border=true&custom_title=Contribution%20Graph" width="100%"/>
-
 <img alt="snake" src="https://raw.githubusercontent.com/JPFerraZzz/JPFerraZzz/output/github-snake.svg">
 
 </div>
