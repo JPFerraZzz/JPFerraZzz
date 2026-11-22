@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=BDE0FE&text=Jo%C3%A3o%20Ferraz&fontSize=60&fontColor=3A4A5C&fontAlignY=38&desc=Networking%20%26%20Systems%20%C2%B7%20Cybersecurity%20in%20the%20making&descColor=3A4A5C&descSize=20&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="./assets/header.svg" width="100%" alt="header"/>
 
-<a href="https://github.com/JPFerraZzz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7BA7D0&center=true&vCenter=true&width=640&lines=%F0%9F%9B%A1%EF%B8%8F+Building+malware+removal+tools;%F0%9F%94%90+Learning+cryptography+by+breaking+it;%F0%9F%8C%90+Designing+networks+in+Packet+Tracer;%F0%9F%94%8E+Doing+OSINT+write-ups+I+can+defend;%F0%9F%8F%A0+Self-hosting+a+homelab+on+a+Raspberry+Pi" alt="typing"/></a>
+<a href="https://github.com/JPFerraZzz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=7BA7D0&center=true&vCenter=true&width=900&lines=%F0%9F%9B%A1%EF%B8%8F+Building+malware+removal+tools;%F0%9F%94%90+Learning+cryptography+by+breaking+it;%F0%9F%8C%90+Designing+networks+in+Packet+Tracer;%F0%9F%94%8E+Doing+OSINT+write-ups+I+can+defend;%F0%9F%8F%A0+Self-hosting+a+homelab+on+a+Raspberry+Pi" alt="typing"/></a>
 
 <br/>
 
@@ -131,11 +131,10 @@ OSINT investigation with theHarvester — **nasa.gov, rapid7.com** and a persona
 <div align="center">
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=JPFerraZzz&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&rank_icon=github&bg_color=FFF9DB&title_color=5B8DB8&text_color=3A4A5C&icon_color=F2C94C&border_color=BDE0FE&border_radius=14"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPFerraZzz&layout=donut-vertical&langs_count=6&bg_color=FFF9DB&title_color=5B8DB8&text_color=3A4A5C&icon_color=F2C94C&border_color=BDE0FE&border_radius=14"/>
+<img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JPFerraZzz&layout=donut&card_width=400&langs_count=6&bg_color=FFF9DB&title_color=5B8DB8&text_color=3A4A5C&icon_color=F2C94C&border_color=BDE0FE&border_radius=14"/>
 
 <img src="https://streak-stats.demolab.com/?user=JPFerraZzz&background=FFF9DB&border=BDE0FE&stroke=BDE0FE&ring=7BA7D0&fire=F2C94C&currStreakNum=3A4A5C&sideNums=3A4A5C&currStreakLabel=7BA7D0&sideLabels=3A4A5C&dates=8A8A8A&border_radius=14"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=JPFerraZzz&theme=flat&no-frame=true&no-bg=true&row=1&column=7&margin-w=8"/>
 
 </div>
 
@@ -157,6 +156,6 @@ OSINT investigation with theHarvester — **nasa.gov, rapid7.com** and a persona
 
 **Networks · malware analysis · applied cryptography · OSINT · homelabs**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=FFE9A0&section=footer" width="100%"/>
+<img src="./assets/footer.svg" width="100%" alt="footer"/>
 
 </div>
