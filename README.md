@@ -42,15 +42,6 @@ mindset:   build it to understand it
 | **28 Oct** | 🛡️ **ZeroBirus**: [`Alpha v1.0`](https://github.com/JPFerraZzz/ZeroBirus/releases) pre-release, removal phase merged |
 | **20 Oct** | 📝 **neatpad**: editor/save fixes, touch sizing, installable PWA |
 
-<details open>
-<summary><b>⚡ Live activity feed</b> <i>(auto-updated every 6 h)</i></summary>
-<br/>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
 ---
 
 ## 🚀 Featured projects
