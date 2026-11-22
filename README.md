@@ -8,7 +8,7 @@
 
 <a href="https://www.linkedin.com/in/jpferrazpereira/"><img src="https://img.shields.io/badge/LinkedIn-0E1314?style=for-the-badge&logo=linkedin&logoColor=00FF9C"/></a>
 <img src="https://img.shields.io/badge/Porto-Portugal-0E1314?style=for-the-badge&logo=googlemaps&logoColor=00FF9C"/>
-<img src="https://img.shields.io/badge/Focus-Cybersecurity-0E1314?style=for-the-badge&logo=hackthebox&logoColor=00FF9C"/>
+<a href="https://jpferraz.netlify.app/en/"><img src="https://img.shields.io/badge/Website-jpferraz.netlify.app-0E1314?style=for-the-badge&logo=netlify&logoColor=00FF9C"/></a>
 <img src="https://komarev.com/ghpvc/?username=JPFerraZzz&label=Profile+views&color=00ff9c&labelColor=0e1314&style=for-the-badge"/>
 
 </div>
@@ -108,17 +108,7 @@ OSINT investigation with theHarvester: **nasa.gov, rapid7.com** and a personal s
 
 <div align="center">
 
-**Security**<br/>
-![Cibersegurança](https://img.shields.io/badge/-Cibersegurança-0E1314?style=for-the-badge) ![Ethical hacking](https://img.shields.io/badge/-Ethical%20hacking-0E1314?style=for-the-badge) ![OSINT](https://img.shields.io/badge/-OSINT-0E1314?style=for-the-badge) ![SOCMINT](https://img.shields.io/badge/-SOCMINT-0E1314?style=for-the-badge) ![Google Dorking](https://img.shields.io/badge/-Google%20Dorking-0E1314?style=for-the-badge) ![theHarvester](https://img.shields.io/badge/-theHarvester-0E1314?style=for-the-badge) ![Digital forensics](https://img.shields.io/badge/-Digital%20forensics-0E1314?style=for-the-badge)
-
-**Systems**<br/>
-![Linux](https://img.shields.io/badge/-Linux-0E1314?style=for-the-badge&logo=linux&logoColor=00FF9C) ![Ubuntu Server](https://img.shields.io/badge/-Ubuntu%20Server-0E1314?style=for-the-badge&logo=ubuntu&logoColor=00FF9C) ![Docker](https://img.shields.io/badge/-Docker-0E1314?style=for-the-badge&logo=docker&logoColor=00FF9C) ![Nginx](https://img.shields.io/badge/-Nginx-0E1314?style=for-the-badge&logo=nginx&logoColor=00FF9C) ![Tailscale](https://img.shields.io/badge/-Tailscale-0E1314?style=for-the-badge) ![Fail2ban](https://img.shields.io/badge/-Fail2ban-0E1314?style=for-the-badge) ![UFW](https://img.shields.io/badge/-UFW-0E1314?style=for-the-badge)
-
-**Code**<br/>
-![Python](https://img.shields.io/badge/-Python-0E1314?style=for-the-badge&logo=python&logoColor=00FF9C) ![Java](https://img.shields.io/badge/-Java-0E1314?style=for-the-badge&logo=openjdk&logoColor=00FF9C) ![JavaScript](https://img.shields.io/badge/-JavaScript-0E1314?style=for-the-badge&logo=javascript&logoColor=00FF9C) ![PHP](https://img.shields.io/badge/-PHP-0E1314?style=for-the-badge&logo=php&logoColor=00FF9C) ![HTML5](https://img.shields.io/badge/-HTML5-0E1314?style=for-the-badge&logo=html5&logoColor=00FF9C) ![CSS3](https://img.shields.io/badge/-CSS3-0E1314?style=for-the-badge&logo=css3&logoColor=00FF9C) ![Pascal](https://img.shields.io/badge/-Pascal-0E1314?style=for-the-badge)
-
-**Web**<br/>
-![Web development](https://img.shields.io/badge/-Web%20development-0E1314?style=for-the-badge) ![Front-end](https://img.shields.io/badge/-Front--end-0E1314?style=for-the-badge) ![SEO](https://img.shields.io/badge/-SEO-0E1314?style=for-the-badge) ![WordPress](https://img.shields.io/badge/-WordPress-0E1314?style=for-the-badge&logo=wordpress&logoColor=00FF9C) ![MySQL](https://img.shields.io/badge/-MySQL-0E1314?style=for-the-badge&logo=mysql&logoColor=00FF9C) ![MariaDB](https://img.shields.io/badge/-MariaDB-0E1314?style=for-the-badge&logo=mariadb&logoColor=00FF9C)
+<img src="./assets/techstack-v2.svg" width="100%" alt="Tech stack: Security, Systems, Code, Web"/>
 
 </div>
 
