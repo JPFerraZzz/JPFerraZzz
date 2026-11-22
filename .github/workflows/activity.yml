@@ -1,0 +1,14 @@
+name: Recent activity
+on:
+  schedule: [{ cron: "0 */6 * * *" }]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: jamesgeorge007/github-activity-readme@master
+        with:
+          MAX_LINES: 8
+          COMMIT_MSG: "chore: update recent activity"
